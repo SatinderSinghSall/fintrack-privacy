@@ -1,36 +1,136 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FinTrack Privacy & Account Deletion
 
-## Getting Started
+Official **Privacy Policy** and **Account Deletion** pages for the **FinTrack** mobile application.
 
-First, run the development server:
+These pages are publicly accessible to comply with **Google Play Store policies** regarding user data transparency and account deletion.
+
+---
+
+## 🌐 Live Pages
+
+| Page                 | Description                                                  |
+| -------------------- | ------------------------------------------------------------ |
+| **Privacy Policy**   | Explains how FinTrack collects, uses, and protects user data |
+| **Account Deletion** | Instructions for users to permanently delete their account   |
+
+Example URLs (after deployment):
+
+```
+/privacy-policy
+/account-deletion
+```
+
+---
+
+## 📱 About FinTrack
+
+**FinTrack** is a personal finance and budgeting mobile application that helps users:
+
+- Track expenses
+- Manage budgets
+- Monitor income
+- Analyze financial habits
+- Gain insights into spending patterns
+
+The app focuses on **simplicity, privacy, and financial clarity**.
+
+---
+
+## ⚙️ Tech Stack
+
+This project is built with modern web technologies:
+
+- **Next.js**
+- **React**
+- **Tailwind CSS**
+- **shadcn/ui**
+- **TypeScript**
+
+These tools provide a fast, responsive, and modern UI for legal and policy pages.
+
+---
+
+## 📂 Project Structure
+
+```
+app
+ ├── privacy-policy
+ │   └── page.tsx
+ │
+ ├── account-deletion
+ │   └── page.tsx
+
+components
+ └── ui
+
+public
+```
+
+---
+
+## 🚀 Running Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/SatinderSinghSall/fintrack-privacy.git
+```
+
+Navigate to the project:
+
+```bash
+cd fintrack-privacy
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open in browser:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📜 Google Play Compliance
 
-To learn more about Next.js, take a look at the following resources:
+This repository provides required public pages for:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Privacy Policy**
+- **Account Deletion Request**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+These pages are required by **Google Play Developer Policy** for apps that collect user data.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📧 Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+For questions or account deletion requests:
+
+**Email:**
+[satindersinghsall111@gmail.com](mailto:satindersinghsall111@gmail.com)
+
+---
+
+## 👨‍💻 Author
+
+**Satinder Singh**
+
+GitHub
+https://github.com/SatinderSinghSall
+
+---
+
+## 📄 License
+
+This project is provided for transparency and compliance purposes for the FinTrack application.
