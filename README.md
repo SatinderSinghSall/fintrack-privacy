@@ -1,4 +1,4 @@
-# FinTrack Privacy & Account Deletion
+# FinTrack Privacy & Account Deletion:
 
 Official **Privacy Policy** and **Account Deletion** pages for the **FinTrack** mobile application.
 
